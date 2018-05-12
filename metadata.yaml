@@ -1,0 +1,63 @@
+_repo: The-Tale-of-Tom-Kitten_14837
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Heelis, Beatrix
+    - Potter, Helen Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: "The Tale of Tom Kitten is a children's book, written and illustrated\
+  \ by Beatrix Potter. It was released by Frederick Warne & Co. in September 1907.\
+  \ The tale is about manners and how children react to them. Tabitha Twitchit, a\
+  \ cat, invites friends for tea. She washes and dresses her three kittens for the\
+  \ party, but within moments the kittens have soiled and lost their clothes while\
+  \ scampering about the garden. Tabitha is \"affronted\". She sends the kittens to\
+  \ bed, and tells her friends the kittens have the measles. Once the tea party is\
+  \ underway however, its \"dignity and repose\" are disturbed by the kittens romping\
+  \ overhead and leaving a bedroom in disorder.\nPotter's career as a children's author\
+  \ and illustrator was launched in 1902 with the release of The Tale of Peter Rabbit.\
+  \ She continued to publish, and, in 1905, bought Hill Top, a farm in Cumbria, with\
+  \ the sales profits from her books and a small legacy from an aunt. Her tales then\
+  \ took inspiration from the farm, its woodland surroundings, and nearby villages.\
+  \ Work began on Tom Kitten in 1906 and its setting became the Hill Top farmhouse.\
+  \ Illustrations depict the interior of the house and the gardens, paths, and gate\
+  \ at the front of the house.\nTwenty thousand copies of the book were released in\
+  \ September 1907 and another 12,500 the following December. Potter composed a few\
+  \ miniature letters for child friends as if from the characters in the tale, and,\
+  \ in 1917, she released a painting book under Tom Kitten's name. In 1935, two books\
+  \ of piano pieces and piano duets for children were published with one piece inspired\
+  \ by Tom Kitten and another by the Puddle-Ducks. Tom and other characters in the\
+  \ book have become the subjects of a variety of merchandise over the years including\
+  \ porcelain figurines and plush toys. The tale is still in print, and has been translated\
+  \ and published in several languages.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2005-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14837'
+  wikidata: Q4263682
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcsh 'Kittens -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Tale of Tom Kitten
+url: http://www.gutenberg.org/ebooks/14837
+wikipedia:
+- https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%AD%E3%81%93%E3%81%AE%E3%83%88%E3%83%A0%E3%81%AE%E3%81%8A%E3%81%AF%E3%81%AA%E3%81%97
+- https://pt.wikipedia.org/wiki/The_Tale_of_Tom_Kitten
+- https://en.wikisource.org/wiki/The_Tale_of_Tom_Kitten
+- https://en.wikipedia.org/wiki/The_Tale_of_Tom_Kitten
+- https://commons.wikimedia.org/wiki/Category:The_Tale_of_Tom_Kitten
+- https://id.wikipedia.org/wiki/The_Tale_of_Tom_Kitten
