@@ -38,6 +38,8 @@ description: "The Tale of Tom Kitten is a children's book, written and illustrat
   \ book have become the subjects of a variety of merchandise over the years including\
   \ porcelain figurines and plush toys. The tale is still in print, and has been translated\
   \ and published in several languages.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14837#The-Tale-of-Tom-Kitten
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2005-01-29'
 gutenberg_type: Text
